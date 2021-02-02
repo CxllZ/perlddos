@@ -42,7 +42,7 @@ my ($ip) = @ARGV;
 
 if ($help || !$ip) {
   print <<'EOL';
- The usage of command is perl CxllZ.pl 1.1.1.1
+ The usage of command is perl ddos.pl 1.1.1.1
 EOL
   exit(1);
 }
