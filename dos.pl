@@ -56,8 +56,8 @@ if ($help || !$ip) {
  ▀▀▀▀▀▀▀▀▀▀▀  ▀       ▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀ 
  dos.pl by cxllz
 
- usage:
- perl dos.pl IP PORT 65500
+ usage e.g:
+ perl dos.pl 1.1.1.1 80 65500
 
  
 EOL
